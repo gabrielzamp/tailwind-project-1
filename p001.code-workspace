@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../projeto-cordel"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "p001"
+	}
+}
